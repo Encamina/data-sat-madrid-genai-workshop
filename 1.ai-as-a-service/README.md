@@ -42,7 +42,9 @@ Por ejemplo, cuando se le pide a un modelo de GenAI que realice la comparación 
 En ese sentido, es importante destacar que se realizan constantes estudios para determinar la capacidad de "pensamiento" de este tipo de IAs:
 
 ![Sparks of Artificial General Intelligence: Early experiments with GPT-4](assets/paper_microsoft_sparks_of_intelligence.png)
-![Understanding the Limitations of Mathematical Reasoning in Large Language Models](assets/pape_apple_limitations_of_math_reasoning.png)
+![Understanding the Limitations of Mathematical Reasoning in Large Language Models](assets/paper_apple_limitations_of_math_reasoning.png)
+
+Esto es importante de cara a las expectativas de lo que podemos o no construir, sobre todo de cara a lo que los usuarios estarían creando y ejecutando al usar la aplicación o servicios que creemos con estas tecnologías.
 
 ## Catálogo de modelos
 
@@ -96,9 +98,9 @@ En este ejemplo se usa una implementación de modelos de Mistral para ilustrarlo
 3. Seleccione Catálogo de modelos en el panel de navegación izquierdo.
 4. Seleccione la tarjeta de modelo del modelo que desea implementar. Seleccione el modelo Mistral-large.
 
-![Implementación de modelos como servicio](assets/model-deployment-mistral.png)
+   ![Implementación de modelos como servicio](assets/model-deployment-mistral.png)
 
-5. Implemente el modelo y siga las intrucciones por defecto. 
+5. Implemente el modelo y siga las intrucciones por defecto.
 
 ### Consumir el modelo implementado desde el Chat Playground
 
